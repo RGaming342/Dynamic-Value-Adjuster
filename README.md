@@ -17,6 +17,12 @@ to link a value to DVA use one of the 6 link functions:
 
 thats it, those linked values can now be changed at runtime.
 </pre>
+## Commands
+<pre>
+  set name value // sets the value of name to value
+  help           // lists all commands(like this list)
+  list           // lists all linked variables and there values
+</pre>
 
 ## Example:
 <pre>
